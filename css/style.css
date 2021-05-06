@@ -1,0 +1,119 @@
+body {
+    background-color: pink;
+}
+.nav li {
+    /*display: inline-block;*/
+    vertical-align: bottom;
+}    
+header {
+    display: inline-block;
+    height: 100px;
+    vertical-align: top;
+    /*display: flex;*/
+    width: 100%;
+    top: 0px;
+    margin-left: 10.45%;
+    margin-right: 10.45%;
+}
+.mylogo {
+    width: 210px;
+    height: 50px;
+    background-color: pink;
+    float: left;
+}
+li {
+    /*float: left;*/
+    padding: 15px;
+    display: inline-block;
+}
+.nav {
+    font-family: "Arimo", sans-serif;
+    font-size: 18px; 
+    width: 80%;
+    /*padding: 1%;*/
+    height: 75px;
+    display: inline-block
+    vertical-align: top;
+    text-align: end;
+}
+.heroImg {
+    height: 1000px;
+    padding: 25px;
+}
+.content {
+    width: 79%;
+    margin-left: 10.45%;
+    margin-right: 10.45%;
+}
+#me {
+    width: 368px;
+    float: left;
+}
+#hey {
+    text-align: left;  
+}
+#sarrah {
+    text-align: center;
+}
+#ux {
+    text-align: end;
+}
+#iAm {
+    margin-left: 45%;
+}
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.number {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    height: 1px;
+}
+.email {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    height: 1px;
+}
+.linkedIn {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    height: 1px;
+}
+footer {
+    background-color: salmon;
+    text-align: center;
+
+}
+h1 {
+    font-family: "Lora", serif;
+    font-size: 48px;
+}
+h2 {
+    font-family: "Lora", serif;
+    font-size: 36px; 
+}
+h3 {
+    font-family: "Lora", serif;
+    font-size: 24px; 
+}
+h4 {
+    font-family: "Arimo", sans-serif;
+    font-size: 24px;
+}
+h5 {
+    font-family: "Arimo", sans-serif;
+    font-size: 20px;  
+}
+p {
+    font-family: "Arimo", sans-serif;
+    font-size: 18px;    
+}
+small {
+    font-family: "Arimo", sans-serif;
+    font-size: 16px;    
+}
